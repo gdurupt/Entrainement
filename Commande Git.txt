@@ -1,0 +1,7 @@
+Git commit -m "Texte"
+
+Git add .
+
+Git push origin master
+
+Git clone "Lien https"
